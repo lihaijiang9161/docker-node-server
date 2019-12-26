@@ -15,5 +15,5 @@ phases:
     commands: 
       - "echo Logging in to Docker Hub..."
       - "docker login -u lizitong -p 1234.com"
-version: 0.3
+version: 0.1
 
