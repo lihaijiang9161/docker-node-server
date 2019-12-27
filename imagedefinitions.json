@@ -1,6 +1,6 @@
 [
     {
-        "name": "node-server",
+        "name": "nodeserver",
         "imageUri": "lizitong/node-server"
     }
 ]
